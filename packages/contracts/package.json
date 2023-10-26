@@ -1,0 +1,17 @@
+{
+    "name": "turborepo-foundry-template-contracts",
+    "version": "1.0.0",
+    "description": "The Turborepo Foundry template smart contracts",
+    "scripts": {
+      "postinstall": "forge install",
+      "build": "forge build"
+    },
+    "keywords": [],
+    "author": "PoolBois",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/0xdavinchee/turborepo-foundry-template/issues"
+    },
+    "homepage": "https://github.com/0xdavinchee/turborepo-foundry-template/packages/contracts#readme"
+  }
+  

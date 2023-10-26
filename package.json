@@ -1,0 +1,14 @@
+{
+    "name": "turborepo-foundry-template",
+    "version": "1.0.0",
+    "description": "A monorepo setup using Turborepo and Foundry, add additional packages/apps as desired.",
+    "scripts": {},
+    "keywords": [],
+    "author": "Superfluid",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/0xdavinchee/turborepo-foundry-template/issues"
+    },
+    "homepage": "https://github.com/0xdavinchee/turborepo-foundry-template"
+  }
+  
